@@ -1,0 +1,7 @@
+These are fast forward merges because they bring the main branch up to speed on the other branches when it merges.
+
+b. If the title is changed in both the develop and conflict merge, there will be a conflict that emerges.
+c. Work is done on two seperate lines in the html file will not result in a merge conflict when they are merged.
+
+
+I could not figure out how to add the screen capture to the .doc file, but it is in the repo on github.
